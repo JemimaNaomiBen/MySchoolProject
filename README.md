@@ -1,2 +1,2 @@
 # MySchoolProject
-This repo will contain features for an e-learning app
+This repo will contain features and projects for an e-learning app
