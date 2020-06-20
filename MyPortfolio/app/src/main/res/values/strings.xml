@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyPortfolio</string>
+
+    //sign in
+    <string name="welcome">Welcome\n\Back!</string>
+    <string name="text_after_welcome">Get the best experience \n\ with the best doctors</string>
+    <string name="email">Email</string>
+    <string name="pword">Password</string>
+    <string name="forgot_pword">Forgot  Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_withgoogle">Sign in with Google</string>
+    <string name="no_account">Don\'t have an account?</string>
+</resources>
