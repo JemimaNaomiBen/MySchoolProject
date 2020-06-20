@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#B5CBCB</color>
+
+    //medom colors
+    <color name="blue">#00C3FF</color>
+    <color name="text_color">#404040</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="green">#00897B</color>
+    <color name="google_button">#B5CBCB</color>
+</resources>
